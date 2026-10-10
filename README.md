@@ -1,21 +1,21 @@
 <div align="center">
 
-<a href="https://readme.vercel.app">
+<a href="https://readmevanta.vercel.app">
   <img src="assets/banner.png" width="100%" alt="README Builder — crie o README do seu perfil do GitHub em minutos" />
 </a>
 
 <br />
 <br />
 
-<a href="https://readme.vercel.app">
-  <img src="https://readme.vercel.app/api/typing.svg?text=Seu+perfil+do+GitHub%2C+pronto+em+minutos+%F0%9F%9A%80&text=Editor+visual+%E2%80%A2+preview+ao+vivo+%E2%80%A2+gr%C3%A1tis&color=58a6ff&speed=45&pause=1400&fontSize=24&width=640&height=56&align=center&font=jetbrains" alt="Seu perfil do GitHub, pronto em minutos" />
+<a href="https://readmevanta.vercel.app">
+  <img src="https://readmevanta.vercel.app/api/typing.svg?text=Seu+perfil+do+GitHub%2C+pronto+em+minutos+%F0%9F%9A%80&text=Editor+visual+%E2%80%A2+preview+ao+vivo+%E2%80%A2+gr%C3%A1tis&color=58a6ff&speed=45&pause=1400&fontSize=24&width=640&height=56&align=center&font=jetbrains" alt="Seu perfil do GitHub, pronto em minutos" />
 </a>
 
 <br />
 
-<a href="https://readme.vercel.app"><img src="https://readme.vercel.app/api/badge.svg?label=Abrir+o+README+Builder&labelColor=238636&messageColor=238636&style=for-the-badge&logo=website" alt="Abrir o README Builder" /></a>
-<img src="https://readme.vercel.app/api/badge.svg?label=Gr%C3%A1tis&message=sem+cadastro&labelColor=30363d&messageColor=1f6feb&style=for-the-badge" alt="Grátis, sem cadastro" />
-<img src="https://readme.vercel.app/api/badge.svg?label=Funciona+no&message=celular&labelColor=30363d&messageColor=8957e5&style=for-the-badge" alt="Funciona no celular" />
+<a href="https://readmevanta.vercel.app"><img src="https://readmevanta.vercel.app/api/badge.svg?label=Abrir+o+README+Builder&labelColor=238636&messageColor=238636&style=for-the-badge&logo=website" alt="Abrir o README Builder" /></a>
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=Gr%C3%A1tis&message=sem+cadastro&labelColor=30363d&messageColor=1f6feb&style=for-the-badge" alt="Grátis, sem cadastro" />
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=Funciona+no&message=celular&labelColor=30363d&messageColor=8957e5&style=for-the-badge" alt="Funciona no celular" />
 
 </div>
 
@@ -72,12 +72,12 @@ Estes cards são gerados pelo README Builder agora, com dados reais do GitHub:
 
 <div align="center">
 
-<img width="49%" src="https://readme.vercel.app/api/github-stats.svg?username=Davibzf&theme=tokyonight" alt="GitHub stats" />
-<img width="49%" src="https://readme.vercel.app/api/github-streak.svg?user=Davibzf&theme=tokyonight" alt="Contribution streak" />
+<img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?username=Davibzf&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://readmevanta.vercel.app/api/github-streak.svg?user=Davibzf&theme=tokyonight" alt="Contribution streak" />
 
-<img src="https://readme.vercel.app/api/top-langs.svg?username=Davibzf&theme=tokyonight" alt="Top languages" />
+<img src="https://readmevanta.vercel.app/api/top-langs.svg?username=Davibzf&theme=tokyonight" alt="Top languages" />
 
-<img src="https://readme.vercel.app/api/trophies.svg?username=Davibzf&theme=tokyonight" alt="Trophies" />
+<img src="https://readmevanta.vercel.app/api/trophies.svg?username=Davibzf&theme=tokyonight" alt="Trophies" />
 
 </div>
 
@@ -85,7 +85,7 @@ Estes cards são gerados pelo README Builder agora, com dados reais do GitHub:
 
 ## 🚀 Como usar
 
-1. Acesse **[readme.vercel.app](https://readme.vercel.app)**
+1. Acesse **[readmevanta.vercel.app](https://readmevanta.vercel.app)**
 2. Digite seu **username do GitHub** — seus dados são puxados automaticamente
 3. Escolha um template ou personalize: textos, ícones, cards, redes sociais
 4. Clique em **Download README.md** (ou copie o Markdown)
@@ -144,7 +144,7 @@ Sim. A interface se adapta a celulares, tablets e computadores, e o download do 
 - 14 card themes, templates, section ordering, PT/EN interface
 - Live preview in GitHub light/dark, one-click download of `README.md`
 
-👉 **[readme.vercel.app](https://readme.vercel.app)**
+👉 **[readmevanta.vercel.app](https://readmevanta.vercel.app)**
 
 </details>
 
