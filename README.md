@@ -38,7 +38,7 @@ Sem cadastro, sem instalar nada, sem configurar API — e funciona no computador
 | | |
 |---|---|
 | ⌨️ **Typing SVG animado** | Frases que digitam e apagam, com cor, fonte, velocidade e tamanho ajustáveis |
-| ⚡ **150+ ícones** | Linguagens, frameworks, bancos, cloud, DevOps, IA, design e games — com variantes claro/escuro |
+| ⚡ **430+ ícones** | 250+ tecnologias: linguagens, frameworks, bancos, cloud, DevOps, IA (OpenAI, Ollama, Gemini…), design e games — com variantes claro/escuro |
 | 📊 **Cards com dados reais** | Stats, sequência de contribuições, linguagens mais usadas, troféus e gráfico de atividade — **atualizam sozinhos** |
 | 🎨 **14 temas** | dark, light, tokyonight, dracula, radical, nord, catppuccin, gruvbox, onedark e mais |
 | 🌊 **Banner em onda** | Cabeçalho e rodapé com seu nome, na sua cor |
@@ -139,7 +139,7 @@ Sim. A interface se adapta a celulares, tablets e computadores, e o download do 
 
 **README Builder** is a free web tool to create your GitHub profile README visually — no Markdown required, no sign-up, works on any device.
 
-- Animated typing SVG, 150+ tech icons, social badges and wave banners
+- Animated typing SVG, 430+ icons for 250+ technologies, social badges and wave banners
 - Live GitHub cards (stats, streak, top languages, trophies, activity graph) that update automatically
 - 14 card themes, templates, section ordering, PT/EN interface
 - Live preview in GitHub light/dark, one-click download of `README.md`
