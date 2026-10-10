@@ -148,7 +148,10 @@ Sim. A interface se adapta a celulares, tablets e computadores, e dá para baixa
 
 <div align="center">
 
-<img src="assets/logo.svg" width="40" alt="ReadmeVanta" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg" />
+  <img src="assets/wordmark-light.svg" width="260" alt="ReadmeVanta" />
+</picture>
 
 Feito por **[Davibzf](https://github.com/Davibzf)** · Gostou? Deixe uma ⭐
 
