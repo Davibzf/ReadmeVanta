@@ -35,7 +35,7 @@ Sem cadastro, sem instalar nada — no computador, no tablet ou no celular.
 | 📊 **Cards com dados reais** | Stats, sequência, linguagens, troféus, gráfico de atividade e calendário de contribuições — **atualizam sozinhos** |
 | 📌 **Cards de repositório** | Seus projetos com descrição, estrelas e forks sempre atualizados |
 | ⌨️ **Typing SVG** | Frases que digitam e apagam, com cor, fonte, velocidade e tamanho ajustáveis |
-| 🧩 **430+ ícones** | 250+ tecnologias: linguagens, frameworks, bancos, cloud, DevOps, IA (OpenAI, Ollama, Gemini…), design e games |
+| 🧩 **700+ ícones** | 390+ tecnologias: linguagens, frameworks, bancos, dados, cloud, DevOps, observabilidade, segurança, IA (Claude, OpenAI, Hugging Face, LangChain…), design e games |
 | 🏷️ **Badges** | Redes sociais com ícone + badges personalizados (ex.: *Python · avançado*, *Inglês · B2*) |
 | 🎨 **14 temas** | dark, light, tokyonight, dracula, radical, nord, catppuccin, gruvbox, onedark e mais |
 | 🌊 **Banner em onda** | Cabeçalho e rodapé com seu nome, na sua cor |
@@ -137,7 +137,7 @@ Sim. A interface se adapta a celulares, tablets e computadores, e dá para baixa
 
 - One-click **Fill from my GitHub** (profile, socials, best repositories, languages)
 - Live cards: stats, streak, top languages, trophies, activity graph, contribution calendar, repository cards
-- Animated typing SVG, 430+ icons for 250+ technologies, social and custom badges, wave banners
+- Animated typing SVG, 700+ icons for 390+ technologies, social and custom badges, wave banners
 - 14 themes, templates, free section ordering, undo/redo, shareable config links, PT/EN
 
 👉 **[readmevanta.vercel.app](https://readmevanta.vercel.app)**
